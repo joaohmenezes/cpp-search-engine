@@ -1,0 +1,14 @@
+Controladas por computador, as engenhocas montadas pelos estudantes têm inteligência
+para tomar decisões e solucionar situações a que são submetidas. Algumas são de
+natureza simples  virar à direita ou à esquerda para prosseguir em seu deslocamento após
+detectar um obstáculo à frente , outras um pouco mais complexas, como se deslocar sobre
+uma mesa e parar próximo da borda sem cair no chão. Podem ainda protagonizar uma
+proeza heróica: identificar e resgatar humanos amigos (na verdade blocos de isopor,
+coloridos para auxiliar o robô na identificação) do interior de uma arena, onde se misturam
+humanos inimigos e outros robôs que precisam enfrentar. Embora os sistemas montados
+pelos alunos sejam, de certa forma, simples, possibilitam trabalhar os princípios
+fundamentais da Robótica de maneira concreta, ou seja, a lógica de programação envolvida
+no funcionamento do robozinho é a mesma aplicada em um aparato que execute operações
+mais complexas, esclarece o professor Luiz Marcos Garcia Gonçalves, responsável pela
+disciplina, ministrada ao longo do segundo seme
+

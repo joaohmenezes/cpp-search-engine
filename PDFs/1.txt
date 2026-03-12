@@ -1,0 +1,13 @@
+Pequenos veículos construídos com peças do jogo Lego, de dimensões próximas à de uma
+caixa de sapatos, movem-se sozinhos em diferentes direções no chão de uma sala de aula
+na Unicamp. Dotados de rodas, garras e guindastes, desviam-se de paredes e de outros
+obstáculos, e executam tarefas como pegar cubos de isopor e transportá-los de um local
+para outro. O que parece brincadeira de criança é, de fato, o exercício acadêmico da
+aplicação de sofisticados conceitos de inteligência artificial para a operação de robôs
+autônomos, executado por alunos da disciplina eletiva de Robótica: Sistemas Sensorial e
+Motor, oferecida desde o ano passado pelo Instituto de Computação (IC) para graduandos
+dos cursos de Ciência da Computação e Engenharia de Computação, e para
+pós-graduandos em Ciência da Computação. A montagem dos robôs, a partir de conjuntos
+fabricados pela empresa Lego, constitui a parte prática da disciplina, concebida com a
+proposta de introduzir nos princípios básicos da Robótica os alunos interessados no tema
+

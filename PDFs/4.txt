@@ -1,0 +1,14 @@
+A Robótica é uma área multidisciplinar que se vale dos conhecimentos de outras ciências,
+como Engenharia Mecânica, Engenharia Elétrica e Inteligência Artificial, para a criação de
+robôs. A maioria dessas máquinas é utilizada em linhas de produção industrial, onde
+repetem infinitamente e com milimétrica precisão uma série de operações previamente
+programadas. Entretanto, cientistas em diferentes centros de pesquisa dedicam grandes
+esforços ao desenvolvimento de uma geração mais avançada de autômatos, os robôs
+inteligentes. São exemplos de iniciativas concretas nesse fascinante campo científico: o
+robô-cobra projetado por engenheiros da Nasa (a agência espacial norte-americana) para
+trabalhar em situações de ausência de gravidade; o cão robótico Aibo lançado pela Sony;
+ou o robô doméstico criado pela NEC para servir de companhia principalmente a pessoas
+de terceira idade que vivem sozinhas, com sensores que lhe permitem desempenhar
+diversas tarefas, como reconhecer mais de uma centena de comandos de voz e frases de
+seus donos.
+
