@@ -8,7 +8,7 @@ This project is a \*\*Search Engine\*\* built in C++ that utilizes an \*\*Invert
 
 
 
-\*\*Academic Context:\*\* Practical Project #3 developed for the Data Structures and Algorithms course at the Federal University of Itajubá (UNIFEI).
+\*\*Academic Context:\*\* Practical Project developed for the Data Structures and Algorithms course at the Federal University of Itajubá (UNIFEI).
 
 
 
